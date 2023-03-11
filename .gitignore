@@ -1,0 +1,4 @@
+#Ignore settings.txt file
+settings.txt
+
+.DS_Store
